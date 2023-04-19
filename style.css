@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+footer, main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+iframe{
+    width: 60vw;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    width: 40vw;
+    text-align: center;
+}
+
+.about p{
+    width: 100%;
+}
+
+
+@media (max-width: 600px){
+    footer, main{
+        width: 100vw;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}

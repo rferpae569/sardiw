@@ -1,6 +1,5 @@
 # Práctica de DIW
-Realizada por Pilar Alegre Ramos  
-🥇
+Realizado por Ruben Fernandez Paez
 
 ## HTML y CSS
 
